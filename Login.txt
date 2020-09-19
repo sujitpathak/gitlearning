@@ -6,6 +6,10 @@ This is Line 3
 
 This is Line 4
 
+<<<<<<< HEAD
 This is Line 5
 
 This is Line 6
+=======
+This is Line 7
+>>>>>>> 2e3f5a8bd27fcf90ceeba7eb403f415ad058d027
